@@ -1,6 +1,7 @@
 :root{
     --bg-secondary: #1ABC9C;
     --bg-primary: #2C3E50;
+    --bg-footer:#3A546D;
     --bg-dark: #0E38B5;
     --dark: #140F0F;
     --bg-tertiary: #1C83C1;
@@ -25,6 +26,43 @@ header{
 
 
 /* main */
-.main_top{
+.main_title{
     background-color:var(--bg-secondary);
+}
+
+.c_house{
+    background-color: var(--bg-red);
+}
+
+.c_cake{
+    background-color: var(--bg-lightblue);
+}
+
+.c_tent{
+    background-color: var(--dark);
+}
+
+.c_games{
+    background-color: var(--bg-tertiary);
+}
+
+.c_lock{
+    background-color: var(--bg-dark)
+    
+}
+
+.c_sub{
+    background-color: var(--bg-light);
+}
+
+.main_about{
+    background-color: var(--bg-secondary);
+}
+
+.footer_top{
+    background-color: var(--bg-footer);
+}
+
+.footer_bottom{
+    background-color: var(--bg-primary);
 }
