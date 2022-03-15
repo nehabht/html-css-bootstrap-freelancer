@@ -1,0 +1,30 @@
+:root{
+    --bg-secondary: #1ABC9C;
+    --bg-primary: #2C3E50;
+    --bg-dark: #0E38B5;
+    --dark: #140F0F;
+    --bg-tertiary: #1C83C1;
+    --bg-lightblue: #1EA4B6;
+    --bg-red: #BA4B63;
+    --bg-light: #CCB2A3;
+
+
+
+
+
+}
+
+.debug [class^="col"]{
+    height: 40px;
+}
+
+header{
+    background-color: var(--bg-primary);
+    color: white;
+}
+
+
+/* main */
+.main_top{
+    background-color:var(--bg-secondary);
+}
