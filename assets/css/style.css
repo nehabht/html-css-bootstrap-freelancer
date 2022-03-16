@@ -15,8 +15,13 @@
 
 }
 
-.debug [class^="col"]{
+/* .debug [class^="col"]{
     height: 40px;
+} */
+
+.profile_img{
+    width: 150px;
+    padding-top: 30px;
 }
 
 header{
@@ -25,6 +30,15 @@ header{
 
 
 /* main */
+
+.fa-dash{
+    width: 65px;
+    border: 1.5px solid white;
+    border-radius: 1px;
+    margin-bottom: 6.5px;
+    
+}
+
 .main_title{
     background-color:var(--bg-secondary);
 }
