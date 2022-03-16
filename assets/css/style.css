@@ -55,6 +55,11 @@ img{
 
 }
 
+.btn_send{
+    background-color: var(--bg-secondary);
+    color: white;
+}
+
 
 /* footer */
 
