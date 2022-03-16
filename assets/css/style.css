@@ -71,3 +71,6 @@ img{
     background-color: var(--bg-primary);
 }
 
+.link_footer{
+    color: var(--bg-secondary);
+}
