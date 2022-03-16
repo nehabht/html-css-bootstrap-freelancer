@@ -21,7 +21,6 @@
 
 header{
     background-color: var(--bg-primary);
-    color: white;
 }
 
 
@@ -66,3 +65,4 @@ header{
 .footer_bottom{
     background-color: var(--bg-primary);
 }
+
