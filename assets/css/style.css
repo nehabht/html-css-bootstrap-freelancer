@@ -45,34 +45,18 @@ img{
     background-color:var(--bg-secondary);
 }
 
-.c_house{
-    background-color: var(--bg-red);
-}
-
-.c_cake{
-    background-color: var(--bg-lightblue);
-}
-
-.c_tent{
-    background-color: var(--dark);
-}
-
-.c_games{
-    background-color: var(--bg-tertiary);
-}
-
-.c_lock{
-    background-color: var(--bg-dark)
-    
-}
-
-.c_sub{
-    background-color: var(--bg-light);
-}
-
 .main_about{
     background-color: var(--bg-secondary);
 }
+
+.btn-outline-secondary {
+    color: white;
+    border-color: white;
+
+}
+
+
+/* footer */
 
 .footer_top{
     background-color: var(--bg-footer);
