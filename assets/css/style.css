@@ -9,18 +9,10 @@
     --bg-red: #BA4B63;
     --bg-light: #CCB2A3;
 
-
-
-
-
 }
 
-/* .debug [class^="col"]{
-    height: 40px;
-} */
-
 .profile_img{
-    width: 150px;
+    width: 270px;
     padding-top: 30px;
 }
 
@@ -37,6 +29,16 @@ header{
     border-radius: 1px;
     margin-bottom: 6.5px;
     
+}
+
+img{
+    width: 100%;
+}
+
+
+.portfolio .fa-dash{
+    border: 1.5px solid var(--bg-primary);
+
 }
 
 .main_title{
